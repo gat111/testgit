@@ -1,5 +1,5 @@
 package school;
-// お掃除インターフェース
+// お掃除インターフェースを改修
  interface CleaningMethod {
     void clean();
 }
